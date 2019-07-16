@@ -1,4 +1,4 @@
-package org.wb.web.view;
+package org.reactor.web.view;
 
 public interface ViewConstant {
 

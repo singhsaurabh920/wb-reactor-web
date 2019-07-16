@@ -1,4 +1,4 @@
-package org.wb.web.view;
+package org.reactor.web.view;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
